@@ -22,7 +22,7 @@ class dfs:
                 visited.append(int(i))
                 break
             elif i != lunapos:
-                #print("dhuksi")
+                
 
                 stack.pop()
 
